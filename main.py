@@ -1,1 +1,1 @@
-print('Hello from repository!') 
+print('Hello from repository!+new_commit') 
